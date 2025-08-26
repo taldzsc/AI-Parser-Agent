@@ -1,0 +1,8 @@
+openai
+python-dotenv
+PyMuPDF
+scikit-learn
+pillow
+nltk
+psutil
+googletrans==4.0.0rc1
